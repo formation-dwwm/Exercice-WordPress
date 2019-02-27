@@ -25,9 +25,9 @@ Dans le fichier **LAMANU-cookie-law.php** créer une fonction **LAMANU_scripts**
 Appeler la méthode du Framework WordPress premettant d'appeler la fonction **LAMANU_scripts** dans la balise HEAD du site WordPress.
 
 ## Exercice 3
-Créer le lien de menu pour avoir une page de configuration dans le Back-Office de Wordpress.     
-Dans cette page créer un champ permattant de renseigner l'ID de suivi. Il est de la forme : UA-00000000-0.     
+Créer le lien de menu pour avoir une page de configuration dans le Back-Office de Wordpress.
 Faire un dossier view. Dans ce dossier créer un fichier option.php. C'est dans ce fichier que va se trouver le contenu de la page de configuration.     
+Dans cette page créer un champ permattant de renseigner l'ID de suivi. Il est de la forme : UA-00000000-0.          
 Ecrire le nécessaire pour pouvoir renseigner le champ de l'ID de suivi. Il doit s'enregistrer dans la base de données.
 
 ## Exercice 4
